@@ -104,9 +104,6 @@
   position: relative;
   top: -1px;
 }
-.icon-rss:before {
-  content: "\e604";
-}
 .icon-google:before {
   content: "\e609";
   position: relative;
@@ -118,6 +115,11 @@
 }
 .icon-pocket:before {
   content: "\e856";
+  position: relative;
+  top: 2px;
+}
+.icon-wechat:before {
+  content: "\e900";
   position: relative;
   top: 2px;
 }
